@@ -35,6 +35,6 @@
     "async": "~0.2.8"
   },
   "dependencies": {
-    "java": "~0.2.4"
+    "java": "~0.8.0"
   }
 }
